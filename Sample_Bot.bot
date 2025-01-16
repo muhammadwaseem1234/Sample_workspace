@@ -1,0 +1,19 @@
+{
+    "name": "Sample_Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "3bd9d0c0-d3d5-11ef-8734-b551a3398f41",
+            "appId": "",
+            "appPassword": "",
+            "tenantId": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\mmuha\\sample_workspace\\Sample_Bot.bot",
+    "overrides": null
+}
